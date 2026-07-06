@@ -9,7 +9,7 @@ The project focuses on API integration, asynchronous JavaScript, modular archite
 
 ## 🚀 Live Demo
 
-🔗 https://your-username.github.io/Wanderlust/
+🔗 https://rana-ahmed29.github.io/Wanderlust---Your-Global-Travel-Planner-/
 
 ---
 
@@ -54,29 +54,19 @@ The project focuses on API integration, asynchronous JavaScript, modular archite
 
 ---
 
-## 🌐 APIs Used
 
-- REST Countries API
-- Nager.Date API (Public Holidays)
-- Ticketmaster Discovery API
-- Open-Meteo API
-- ExchangeRate API
-- Sunrise-Sunset API
-- FlagCDN
+## 🌍 Data Sources
 
----
+- Countries & Location Data
+- Public Holidays
+- Events & Attractions
+- Weather Forecast
+- Currency Exchange
+- Sunrise & Sunset
+- Country Flags
 
-## 📂 Project Modules
-
-- Dashboard
-- Countries
-- Holidays
-- Events
-- Weather
-- Currency Converter
-- Long Weekends
-- Sun Times
-- My Plans
+📄 API Documentation:  
+https://documenter.getpostman.com/view/24475784/2sBXVmdnVf#73bc3d59-f8a4-4102-8c01-0da998856582
 
 ---
 
